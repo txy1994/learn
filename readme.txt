@@ -1,2 +1,2 @@
-git is a very good tool.
+git is a free software.
 I like git.
